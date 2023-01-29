@@ -1,1 +1,1 @@
-[![Ekiben GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekiben)](https://github.com/anuraghazra/github-readme-stats)
+[![Ekiben542 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekiben542)](https://github.com/anuraghazra/github-readme-stats)
