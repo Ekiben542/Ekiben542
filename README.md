@@ -16,23 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 EkibenのGithubです()
-やってること
-：Python
-：Ruby
-：JavaScript
-：Java
-：C#
-：C
-：Lua
-：PHP
-：HTML
-：CSS
-
-
-- 🌱 学んでるやつ：
-      :Swift
-       :C++  
+- 🔭 やってること　Python,Java,Javascript,C#,C,PHP,HTML,CSS,Lua,etc...
+- 🌱 学んでるやつ： Swift,C++,Go etc...
+    
 
 - 💬 Python, JavaScript, Ruby とかなら質問どうぞ(
 
