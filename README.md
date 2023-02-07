@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Ekiben542.https://github.com/Ekiben542)
 
 </p>
-<div size='20px'> Hi! My name is Ekiben. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> EkibenのGithubプロフィールよ～
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on EkibenのGithubです()
+- 🔭 EkibenのGithubです()
 やってること
 ：Python
 ：Ruby
@@ -28,16 +28,13 @@
 ：PHP
 ：HTML
 ：CSS
-学ぼうとしてるやつ
-：Swift
-：C++
-：Kotlin
 
-- 🌱 I’m currently learning  
 
-- 👯 I’m looking to collaborate on  
+- 🌱 学んでるやつ：
+      :Swift
+       :C++  
 
-- 💬 Talk to me about Python, JavaScript, Ruby etc... 
+- 💬 Python, JavaScript, Ruby とかなら質問どうぞ(
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/Ekiben542?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -69,9 +66,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
   
 [![Ekiben542 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ekiben542)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekiben542&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
