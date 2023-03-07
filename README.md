@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Ekiben542.https://github.com/Ekiben542)
 
 </p>
-<span style="font-size: 200%; color: black;">EkibenのGithubへ、ようこそ。</span>
+<span style="font-size: 200%; color: black;">EkibenのGithubへ、ようこそ。（まだ駆け出し）</span>
 </div>
 
 <h2> Ekibenについて <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
